@@ -1,3 +1,4 @@
+> ⚠️ **Catatan Penting:** Karena ukuran model Random Forest (`letter_model_rf.pkl`) melebihi batas 100MB GitHub (sebesar 111MB), file model tersebut dapat diunduh secara terpisah melalui [Link Google Drive Ini](TARUH_LINK_GD_KAMU_DI_SINI). Pastikan Anda meletakkannya di folder yang sama sebelum menjalankan aplikasi Streamlit.
 # Letter Recognition: End-to-End Machine Learning Pipeline
 
 Proyek ini mengimplementasikan sistem pengenalan 26 huruf kapital bahasa Inggris (A-Z) berdasarkan 16 fitur statistik geometri piksel menggunakan dataset orisinal dari UCI Machine Learning Repository. Proyek ini membandingkan algoritma Machine Learning Klasik dengan Deep Learning serta di-deploy menggunakan aplikasi web interaktif.
