@@ -8,7 +8,7 @@ Berdasarkan eksperimen dan laporan metrik (*Classification Report*), berikut ada
 
 | Model | Akurasi (%) | Precision (Avg) | Recall (Avg) | F1-Score (Avg) | Status |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Multilayer Perceptron (MLP)** | **95.07%** | **0.95** | **0.95** | **0.95** | **Model Terbaik** |
+| **Multilayer Perceptron (MLP)** | **95.38%** | **0.95** | **0.95** | **0.95** | **Model Terbaik** |
 | **Support Vector Machine (SVM)** | 95.00% | 0.95 | 0.95 | 0.95 | Cukup Stabil |
 | **Random Forest Classifier** | 92.17% | 0.93 | 0.92 | 0.92 | Stabil |
 
