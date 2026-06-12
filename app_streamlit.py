@@ -34,7 +34,7 @@ except Exception as e:
 st.subheader("📊 Input 16 Fitur Karakteristik Huruf")
 
 # Panduan arti dari setiap fitur berdasarkan dataset UCI
-with st.expander("📖 Lihat Panduan Arti Fitur (Bahan Presentasi ke Dosen)"):
+with st.expander("📖 Lihat Panduan Arti Fitur:"):
     st.markdown("""
     Setiap fitur menerima input nilai **0 sampai 15** yang merepresentasikan:
     * **Fitur 1 (X-Box):** Posisi horizontal rata-rata dari kotak pembungkus huruf.
